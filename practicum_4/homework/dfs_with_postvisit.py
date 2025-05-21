@@ -5,7 +5,7 @@ from abc import ABC, abstractmethod
 
 import networkx as nx
 
-from dfs import GraphTraversal
+from practicum_4.dfs import GraphTraversal
 from src.plotting.graphs import plot_graph
 from src.common import AnyNxGraph
 
